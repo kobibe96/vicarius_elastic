@@ -6,3 +6,8 @@
 * elasticsearch-7.17.0
 * Application Port: 8080
 
+# Instructions
+
+* Install and run localy elastic search version 7.17.0 (No docker)
+* Run the code with your fevorite IDE
+* Enjoy the app!
