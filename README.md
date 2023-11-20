@@ -1,4 +1,4 @@
-# vicarius_elastic
+# Vicarius ElasticSearch
 
 * Java 21
 * Maven
